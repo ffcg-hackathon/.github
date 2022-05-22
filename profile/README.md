@@ -1,3 +1,3 @@
 # FFCG Test Organization
 
-Everything in this organization is maintained by terraform.
+Everything in this organization is managed by terraform.
