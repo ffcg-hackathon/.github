@@ -1,0 +1,2 @@
+# .github
+Generic Organization Repo
