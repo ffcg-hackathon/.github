@@ -6,7 +6,7 @@ How to create your own gcp environment:
 
 1. Pull down the ffcg-labs-as-code repo.
 2. Go to metadata/ directory 
-3. Create a yaml file for you (you can also add other members), your group and your environment.
+3. Create a yaml file for you (you can also add other members), your group and your environment or/and application repo.
 4. Create a branch
 5. Commit your changes & submit a Pull-request.
 
